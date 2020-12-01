@@ -1,0 +1,8 @@
+# For use with DataBricks, simply copy the lines below
+# as "Spark / Environment Variables" when creating the cluster.
+
+rds_host=fjs-project.cpfawmiirogo.eu-central-1.rds.amazonaws.com:3306
+rds_user=fjs-user
+rds_pwd=fjs-project
+rds_db=fjs-db
+
