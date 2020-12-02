@@ -1,0 +1,3 @@
+DBSCAN(eps=1.2, min_samples= 3): Found  1 cluster,  noise= 0.00%, cluster_sizes= [(0, 15626)]...................................
+CPU times: user 8min 48s, sys: 27.6 s, total: 9min 16s
+Wall time: 9min 16s
